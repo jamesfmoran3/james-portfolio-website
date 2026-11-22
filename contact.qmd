@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+**James Moran**  
+Gainesville, Florida  
+Email: james.f.moran3@gmail.com  
+LinkedIn: <https://www.linkedin.com/in/james-moran-/>  
+GitHub: <https://github.com/jamesfmoran3>
+
+## Professional Interests
+
+I am interested in conservation GIS, environmental monitoring, ecological restoration, forest resources, invasive species management, public works GIS, water resources, urban forestry, and applied environmental data analysis.

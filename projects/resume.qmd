@@ -1,0 +1,15 @@
+---
+title: "Resume"
+---
+
+You can download my current resume here:
+
+[Download Resume](../files/James-Moran-Resume.pdf)
+
+## Technical Skills
+
+**Programming & Statistics:** R, RStudio, tidyverse, ggplot2, JMP, Excel, regression, ANOVA, experimental design, data visualization
+
+**GIS & Spatial Analysis:** ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, sf, terra, raster/vector workflows, spatial data visualization
+
+**Research Areas:** environmental datasets, ecological monitoring, invasive species, biological control, soil health, sustainable agriculture, forest health, conservation outreach

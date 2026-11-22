@@ -1,0 +1,26 @@
+---
+title: "About"
+---
+
+# About
+
+I am an M.S. candidate in Forest Resources and Conservation with a concentration in Geomatics at the University of Florida. My work combines GIS, environmental monitoring, ecological fieldwork, invasive species programs, plant health, biological control, ecosystem restoration, data visualization, and public outreach.
+
+I have supported state agency and university research programs through field observations, spatial data organization, map production, records management, technical documentation, greenhouse and field support, laboratory procedures, and communication with scientists, land managers, agencies, stakeholders, students, and public audiences.
+
+## Career Interests
+
+- Conservation GIS and land stewardship mapping
+- Environmental monitoring and natural resource data management
+- Forest resources, forest health, and restoration
+- Water resources, stormwater, green infrastructure, and climate resilience
+- Ecological consulting, field surveys, and technical reporting
+- Invasive species management and biological control
+- Plant science, soil health, and sustainable agriculture
+- Science communication and public-facing environmental education
+
+## What I Bring
+
+::: {.project-card}
+I connect field-based environmental experience with GIS, R, data visualization, and communication to create decision-ready products for conservation, restoration, monitoring, and public service.
+:::

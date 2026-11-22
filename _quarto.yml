@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/
+    - files/
+
+website:
+  title: "James Moran"
+  site-url: "https://jamesfmoran3.github.io/james-portfolio-website/"
+  
+  navbar:
+    title: "James Moran"
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/projects.qmd
+        text: Projects
+      - href: projects/resume.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/james-moran-/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/jamesfmoran3
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 James Moran"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: full
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true

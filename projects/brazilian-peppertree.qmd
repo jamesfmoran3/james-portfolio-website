@@ -1,0 +1,65 @@
+---
+title: "Brazilian Peppertree Biological Control Mapping"
+subtitle: "RStudio mapping, ecological monitoring, and invasive species data visualization"
+---
+
+## Overview
+
+This project used RStudio and spatial data workflows to visualize biological control agent releases, damage sightings, and establishment patterns for Brazilian peppertree biological control efforts across Florida.
+
+## Research Goal
+
+The goal was to translate field monitoring records into clear spatial products that could support program tracking, ecological interpretation, and conservation communication.
+
+## Tools Used
+
+-   RStudio
+-   R
+-   tidyverse
+-   ggplot2
+-   sf
+-   ArcGIS Pro
+-   Excel
+-   Ecological monitoring records
+
+## Methods
+
+-   Cleaned and organized field monitoring records
+-   Prepared spatial data for mapping
+-   Visualized biological control release locations
+-   Mapped damage sightings and establishment observations
+-   Created outputs for program communication and outreach
+
+### Brazilian Peppertree Site Visits and Thrips Detection Events
+
+\`\`\`{=html} <iframe 
+  src="../assets/Maps/peppertree-site-visits-thrips-detections.html" 
+  width="100%" 
+  height="650" 
+  style="border: none;"> </iframe>
+
+<br><br>
+
+<h3>Total Thrips Released by County</h3>
+
+<iframe src="../assets/Maps/total-thrips-released-by-county.html" width="100%" height="650" style="border: none;">
+
+</iframe>
+
+## Skills Demonstrated
+
+-   R-based mapping
+-   Spatial data cleaning
+-   Ecological data visualization
+-   Invasive species monitoring
+-   Conservation GIS
+-   Research documentation
+-   Science communication
+
+## Data Sensitivity Note
+
+Exact coordinates and sensitive agency data are not publicly shared. Public outputs are generalized, summarized, or shown as static images when needed.
+
+## Why This Matters
+
+## This project demonstrates my ability to convert environmental field data into spatial products that support conservation research, biological control tracking, and communication with land managers, agencies, and stakeholders.

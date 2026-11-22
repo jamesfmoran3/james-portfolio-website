@@ -1,0 +1,102 @@
+---
+title: "Biological Control and Eutrophication in Aquatic Ecosystems"
+subtitle: "Research synthesis on invasive aquatic plants, nutrient loading, and restoration strategies"
+---
+
+## Overview
+
+This project examined the role of biological control agents in restoration strategies for aquatic ecosystems impacted by invasive plants and eutrophication. The presentation focused on how nutrient enrichment, invasive aquatic plants, and biological control interact in freshwater systems, with an emphasis on restoration strategies that reduce invasive plant dominance, algal biomass, and nutrient-related ecosystem degradation.
+
+Eutrophication occurs when nutrients accumulate in a body of water, often increasing populations of primary producers and contributing to water quality decline, biodiversity loss, and disruption of aquatic ecosystem structure and function. This process can occur naturally, but it is often accelerated by human inputs of nitrogen and phosphorus. Invasive aquatic plants can take advantage of eutrophic conditions, using excess nutrients to grow rapidly and outcompete native plants.
+
+## Research Goal
+
+The goal of this project was to evaluate how biological control agents can be used as part of restoration strategies for managing invasive aquatic plants and reducing the ecological effects of eutrophication.
+
+## Key Questions
+
+-   How are invasive aquatic plants and eutrophication related?
+-   How can biological control reduce invasive plant vigor, density, or reproductive capacity?
+-   What are the advantages and limitations of biological control agents in aquatic systems?
+-   Why are combined restoration strategies often more effective than single-method approaches?
+
+## Topics Covered
+
+This project synthesized biological control options for several invasive aquatic plant and eutrophication-related systems:
+
+-   **Hydrilla** and Chinese grass carp
+-   **Water lettuce** and water lettuce leaf weevil
+-   **Water hyacinth** and mottled water hyacinth weevil
+-   Large algal biomass and silver carp
+-   Replanting submerged native macrophytes
+-   Combined biological control and restoration approaches
+
+## Methods
+
+This project was developed as a literature-based research synthesis and presentation. I reviewed scientific literature, extension publications, invasive species profiles, and aquatic plant management resources to compare biological control strategies and their relevance to eutrophication management.
+
+The workflow included:
+
+-   Reviewing literature on eutrophication, invasive aquatic plants, and biological control.
+-   Comparing invasive aquatic plant case studies.
+-   Summarizing biological control agents, their history, benefits, and limitations.
+-   Evaluating how invasive aquatic plants can worsen eutrophication through reduced dissolved oxygen, increased sediment accumulation, and nutrient loading.
+-   Synthesizing restoration best practices involving nutrient reduction, native macrophyte restoration, and biological control.
+-   Creating a presentation designed to communicate technical ecological concepts clearly to an academic audience.
+
+## Selected Case Studies
+
+### Hydrilla and Chinese Grass Carp
+
+Hydrilla is a fast-growing submerged aquatic plant that can form dense canopies, reduce dissolved oxygen, and increase sediment accumulation. Chinese grass carp have been used to control hydrilla, but they can also create management concerns because they are difficult to remove, may affect native macrophytes, and can become problematic if not carefully managed.
+
+### Water Lettuce and Water Lettuce Weevil
+
+Water lettuce forms dense floating mats that can reduce dissolved oxygen and increase evaporation rates. The water lettuce leaf weevil has been used as a biological control agent because it damages water lettuce through feeding, egg deposition, and larval development, reducing mat density and plant vigor.
+
+### Water Hyacinth and Mottled Water Hyacinth Weevil
+
+Water hyacinth can rapidly form large floating mats, reduce oxygen, and add large quantities of decomposing plant material to aquatic systems. The mottled water hyacinth weevil reduces biomass and flower production and is host-specific, making it a useful biological control option.
+
+### Filter Feeders and Macrophyte Restoration
+
+Silver carp and filter-feeding organisms may reduce plankton and algal biomass, while replanting submerged macrophytes can help reduce nutrients and shift water bodies from turbid to clearer states. However, the project emphasized that single methods are often insufficient and that combined approaches are usually more effective for stabilizing water quality.
+
+## Main Findings
+
+Biological control can be a useful tool for reducing invasive aquatic plant vigor, biomass, and reproductive capacity, but it is rarely a complete solution by itself. Invasive aquatic plants and eutrophication often reinforce one another: nutrient-rich water promotes invasive plant growth, while dense invasive plant mats can lower dissolved oxygen, increase sediment accumulation, and contribute additional nutrients through decomposition.
+
+The strongest restoration strategies combine multiple approaches, including:
+
+-   Reducing nitrogen and phosphorus inputs.
+-   Reintroducing or restoring native submerged macrophytes.
+-   Using host-specific biological control agents.
+-   Applying integrated management rather than relying on a single control method.
+-   Monitoring long-term ecosystem response after control efforts.
+
+## Skills Demonstrated
+
+-   Literature review
+-   Research synthesis
+-   Invasive species management
+-   Biological control knowledge
+-   Aquatic ecology
+-   Restoration ecology
+-   Eutrophication and nutrient cycling concepts
+-   Science communication
+-   Presentation design
+-   Technical writing
+-   Ecological case study comparison
+-   Translating scientific literature for an academic audience
+
+## Why This Matters
+
+This project demonstrates my ability to connect invasive species management, biological control, restoration ecology, and water quality issues into a clear applied conservation framework. It also reflects my broader interest in biological control programs and ecosystem restoration, especially where invasive species interact with nutrient pollution, biodiversity loss, and degraded ecosystem function.
+
+Understanding these relationships is important because aquatic invasive plants and eutrophication are often linked. Reducing one stressor can help reduce the other, but long-term restoration usually requires integrated management that addresses invasive species, nutrient inputs, native plant recovery, and water quality together.
+
+## Presentation
+
+A PDF version of the presentation can be added here:
+
+## [View Presentation](../files/P2P.pdf)

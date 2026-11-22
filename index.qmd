@@ -1,0 +1,36 @@
+---
+title: "James Moran"
+subtitle: "GIS | R | Environmental Data Analysis | Conservation Research"
+---
+
+I am a graduate student in Forest Resources and Conservation at the University of Florida with experience in GIS, R programming, applied statistics, environmental data analysis, ecological monitoring, invasive species research, and conservation outreach.
+
+My work focuses on using spatial analysis, statistical tools, and environmental datasets to understand ecosystem stressors such as invasive species, land-use change, climate impacts, and habitat disturbance.
+
+## Featured Work
+
+### Brazilian Peppertree Biological Control Mapping
+
+RStudio and GIS-based mapping used to visualize biological control agent releases, damage sightings, and establishment patterns across Florida.
+
+[View project](projects/brazilian-peppertree.qmd)
+
+### Green Infrastructure, Urban Heat, and Flooding Analysis
+
+Spatial and statistical analysis of environmental stressors using R, ArcGIS Pro, and ecological datasets.
+
+[View project](projects/chicago-gi.qmd)
+
+### Soil Health and Sustainable Agriculture Research
+
+USDA SARE project involving soil health, compost samples, beneficial microorganisms, Rhizobium, and sustainable agriculture outreach.
+
+[View project](projects/soil-health.qmd)
+
+### Applied Statistics and Environmental Data Analysis
+
+Selected R and JMP projects demonstrating regression, ANOVA, visualization, model interpretation, and data communication.
+
+### Eutrophication and Invasive Aquatic Plants
+
+[View project](projects/P2P.qmd)

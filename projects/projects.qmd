@@ -1,0 +1,41 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+### [Brazilian Peppertree Biological Control Mapping](brazilian-peppertree.qmd)
+
+RStudio maps and GIS workflows used to track biological control releases, damage sightings, and establishment patterns across Florida.
+
+**Skills:** R, GIS, ecological monitoring, spatial data cleaning, invasive species research
+
+------------------------------------------------------------------------
+
+### [Green Infrastructure, Urban Heat, and Flooding Analysis](chicago-gi.qmd)
+
+Spatial and statistical analysis of green infrastructure, urban heat, flooding, and socioeconomic variables.
+
+**Skills:** ArcGIS Pro, R, regression, raster/vector analysis, environmental data visualization
+
+------------------------------------------------------------------------
+
+### [USDA SARE Soil Health Research](soil-health.qmd)
+
+Sustainable agriculture research involving soil health, compost samples, beneficial microorganisms, and grower outreach.
+
+**Skills:** soil science, agricultural data, field research, research communication
+
+------------------------------------------------------------------------
+
+### Applied Statistics and JMP/R Analysis
+
+Selected coursework and research examples using R and JMP for statistical analysis, visualization, and interpretation.
+
+**Skills:** R, JMP, ANOVA, regression, experimental design, model interpretation
+
+------------------------------------------------------------------------
+
+### [Eutrophication and Invasive Aquatic Plants](P2P.qmd)
+
+A review of invasive aquatic plants, biological control, and eutrophication management.
