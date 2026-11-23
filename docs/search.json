@@ -144,14 +144,7 @@
     "href": "index.html",
     "title": "James Moran",
     "section": "",
-    "text": "I am a graduate student in Forest Resources and Conservation at the University of Florida with experience in GIS, R programming, applied statistics, environmental data analysis, ecological monitoring, invasive species research, and conservation outreach.\nMy work focuses on using spatial analysis, statistical tools, and environmental datasets to understand ecosystem stressors such as invasive species, land-use change, climate impacts, and habitat disturbance."
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "James Moran",
-    "section": "Featured Work",
-    "text": "Featured Work\n\nBrazilian Peppertree Biological Control Mapping\nRStudio and GIS-based mapping used to visualize biological control agent releases, damage sightings, and establishment patterns across Florida.\nView project\n\n\nGreen Infrastructure, Urban Heat, and Flooding Analysis\nSpatial and statistical analysis of environmental stressors using R, ArcGIS Pro, and ecological datasets.\nView project\n\n\nSoil Health and Sustainable Agriculture Research\nUSDA SARE project involving soil health, compost samples, beneficial microorganisms, Rhizobium, and sustainable agriculture outreach.\nView project\n\n\nApplied Statistics and Environmental Data Analysis\nSelected R and JMP projects demonstrating regression, ANOVA, visualization, model interpretation, and data communication.\n\n\nEutrophication and Invasive Aquatic Plants\nView project"
+    "text": "I’m a graduate student studying how invasive species, land use, and climate affect ecosystems. I use GIS, R, and field monitoring data to map those changes and inform conservation planning."
   },
   {
     "objectID": "about.html",
@@ -348,5 +341,26 @@
     "title": "Resume",
     "section": "Technical Skills",
     "text": "Technical Skills\nProgramming & Statistics: R, RStudio, tidyverse, ggplot2, JMP, Excel, regression, ANOVA, experimental design, data visualization\nGIS & Spatial Analysis: ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, sf, terra, raster/vector workflows, spatial data visualization\nResearch Areas: environmental datasets, ecological monitoring, invasive species, biological control, soil health, sustainable agriculture, forest health, conservation outreach"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "James Moran",
+    "section": "Featured projects",
+    "text": "Featured projects\n\nGreen infrastructure, urban heat, and flooding in Chicago\n\n\n\nChicago green infrastructure analysis, with a hotspot map and statistical results\n\n\nWhere does a city need more green space? I compared green infrastructure, temperature, flood susceptibility, and median income across Chicago census tracts to identify areas for further investment.\nExplore the Chicago analysis\n\n\nMapping Brazilian peppertree biological control in Florida\nI mapped thrips releases and follow-up field observations to track where crews released biological control agents and where they later detected them.\nOpen the county release map View the project\n\n\nSoil health and sustainable agriculture\nIn a USDA SARE research project, I helped test seed viability, set up field plots, and extract DNA from soil and compost to study beneficial microorganisms in agricultural soils.\nExplore the soil health research\n\n\nEutrophication and invasive aquatic plants\nMy presentation examines how nutrient enrichment and invasive plants affect freshwater ecosystems, using hydrilla, water lettuce, and water hyacinth as case studies.\nOpen the presentation (PDF) Read the research summary"
+  },
+  {
+    "objectID": "index.html#applied-statistics",
+    "href": "index.html#applied-statistics",
+    "title": "James Moran",
+    "section": "Applied statistics",
+    "text": "Applied statistics\nMy R and JMP work includes regression, ANOVA, and model interpretation. The Chicago analysis shows how I use regression alongside maps to interpret environmental data."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "James Moran",
+    "section": "Contact",
+    "text": "Contact\nGet in touch or view my résumé."
   }
 ]

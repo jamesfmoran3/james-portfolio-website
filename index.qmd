@@ -1,36 +1,52 @@
 ---
 title: "James Moran"
-subtitle: "GIS | R | Environmental Data Analysis | Conservation Research"
+subtitle: "Forest Resources and Conservation · University of Florida"
+toc: false
+page-layout: article
 ---
 
-I am a graduate student in Forest Resources and Conservation at the University of Florida with experience in GIS, R programming, applied statistics, environmental data analysis, ecological monitoring, invasive species research, and conservation outreach.
+I’m a graduate student studying how invasive species, land use, and climate affect ecosystems. I use GIS, R, and field monitoring data to map those changes and inform conservation planning.
 
-My work focuses on using spatial analysis, statistical tools, and environmental datasets to understand ecosystem stressors such as invasive species, land-use change, climate impacts, and habitat disturbance.
+## Featured projects
 
-## Featured Work
+::: {.project-card}
+### Green infrastructure, urban heat, and flooding in Chicago
 
-### Brazilian Peppertree Biological Control Mapping
+![Chicago green infrastructure analysis, with a hotspot map and statistical results](assets/images/CHI.png){fig-alt="Map of Chicago showing green infrastructure and environmental risk, alongside regression results and a scatterplot."}
 
-RStudio and GIS-based mapping used to visualize biological control agent releases, damage sightings, and establishment patterns across Florida.
+Where does a city need more green space? I compared green infrastructure, temperature, flood susceptibility, and median income across Chicago census tracts to identify areas for further investment.
 
-[View project](projects/brazilian-peppertree.qmd)
+[Explore the Chicago analysis](projects/chicago-gi.qmd){.project-button}
+:::
 
-### Green Infrastructure, Urban Heat, and Flooding Analysis
+::: {.project-card}
+### Mapping Brazilian peppertree biological control in Florida
 
-Spatial and statistical analysis of environmental stressors using R, ArcGIS Pro, and ecological datasets.
+I mapped thrips releases and follow-up field observations to track where crews released biological control agents and where they later detected them.
 
-[View project](projects/chicago-gi.qmd)
+[Open the county release map](assets/Maps/total-thrips-released-by-county.html){.project-button} [View the project](projects/brazilian-peppertree.qmd)
+:::
 
-### Soil Health and Sustainable Agriculture Research
+::: {.project-card}
+### Soil health and sustainable agriculture
 
-USDA SARE project involving soil health, compost samples, beneficial microorganisms, Rhizobium, and sustainable agriculture outreach.
+In a USDA SARE research project, I helped test seed viability, set up field plots, and extract DNA from soil and compost to study beneficial microorganisms in agricultural soils.
 
-[View project](projects/soil-health.qmd)
+[Explore the soil health research](projects/soil-health.qmd){.project-button}
+:::
 
-### Applied Statistics and Environmental Data Analysis
+::: {.project-card}
+### Eutrophication and invasive aquatic plants
 
-Selected R and JMP projects demonstrating regression, ANOVA, visualization, model interpretation, and data communication.
+My presentation examines how nutrient enrichment and invasive plants affect freshwater ecosystems, using hydrilla, water lettuce, and water hyacinth as case studies.
 
-### Eutrophication and Invasive Aquatic Plants
+[Open the presentation (PDF)](files/P2P.pdf){.project-button} [Read the research summary](projects/P2P.qmd)
+:::
 
-[View project](projects/P2P.qmd)
+## Applied statistics
+
+My R and JMP work includes regression, ANOVA, and model interpretation. The [Chicago analysis](projects/chicago-gi.qmd) shows how I use regression alongside maps to interpret environmental data.
+
+## Contact
+
+[Get in touch](contact.qmd) or [view my résumé](projects/resume.qmd).
